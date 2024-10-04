@@ -13,7 +13,7 @@ Welcome to MovieMania, your go-to destination for all things movies! This React-
 
 To get started with MovieMania on your local machine, follow these simple steps:
 
-1. Clone this repository: `git clone https://github.com/AbhishekShrivastav73/Movie-App.git`
+1. Clone this repository: `https://github.com/sidgureja7803/Movie-App.git`
 2. Navigate to the project directory: `cd Movie-App`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -40,7 +40,7 @@ If you'd like to contribute to MovieMania, feel free to submit a pull request! W
 
 ## Credits
 
-- This project was created by [Abhishek Shrivastav].
+- This project was created by [Siddhant Gureja].
 - Movie data is provided by [The Movie Database (TMDB)](https://www.themoviedb.org/).
 
 ## License
@@ -49,6 +49,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-We'd love to hear your feedback on MovieMania! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or reach out to us via email.
+I'd love to hear your feedback on MovieMania! 
+If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or reach out to us via email.
 
 ---
